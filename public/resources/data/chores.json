@@ -1,0 +1,174 @@
+{
+    "Monday":[
+        {
+            "Name":"Take garbage and recycling out",
+            "Description":"Check the small cans as well."
+        },
+        {
+            "Name":"Pickup dirty clothes",
+            "Description":"Only time clothes should be on the floor is for... never mind."
+        },
+        {
+            "Name":"Pickup junk in the Bedroom",
+            "Description":"The gremlins have spread our stuff everywhere."
+        },
+        {
+            "Name":"Pickup Dog Toys in the Bedroom",
+            "Description":"The gerblin has spread his stuff everywhere, assert dominance by cleaning it up."
+        }
+    ],
+    "Tuesday":[
+        {
+            "Name":"Put dishes away",
+            "Description":"Run the dishwasher, put the drying rack away, and make a round for dishes left out."
+        },
+        {
+            "Name":"Pickup Petroom floor",
+            "Description":"Get those gerblin toys as well."
+        },
+        {
+            "Name":"Clean cat litter boxes",
+            "Description":"I know, just hold your breath and pray."
+        },
+        {
+            "Name":"Fresh Petroom water",
+            "Description":"The apartment is full of HydroHomies, fresh water is the simplest path to compliance."
+        },
+        {
+            "Name":"Vacuum Bedroom and Petroom",
+            "Description":"Sucky boi go brrr."
+        },
+        {
+            "Name":"Pickup Leo's Desk",
+            "Description":"The gremlins have spread our stuff everywhere."
+        }
+    ],
+    "Wednesday":[
+        {
+            "Name":"Take garbage and recycling out",
+            "Description":"Check the small cans as well."
+        },
+        {
+            "Name":"Do the laundry",
+            "Description":"Check the hampers to see if there's any that are full."
+        },
+        {
+            "Name":"Fold the laundry",
+            "Description":"The sooner you get it in drawers the better you will feel about life."
+        },
+        {
+            "Name":"Pickup in the Living Room",
+            "Description":"DE-CLUTTER"
+        },
+        {
+            "Name":"Clean the crafting station off.",
+            "Description":"Clutter, it's what's for dinner."
+        },
+        {
+            "Name":"Fold the blankets",
+            "Description":"The must return to the ladder for recharging once a week."
+        },
+        {
+            "Name":"Vacuum Living Room and Hallway thing",
+            "Description":"Arlo will one day conquer sucky boi."
+        },
+        {
+            "Name":"Put shoes away",
+            "Description":"No shoes on the carpet."
+        },
+        {
+            "Name":"Pickup dog toys",
+            "Description":"There is likely a trail of destruction leading away from the toy basket. Good luck."
+        }
+    ],
+    "Thursday":[
+        {
+            "Name":"Clean and clear Kitchen counters",
+            "Description":"If it doesn't have a home on the counter it's gotta move."
+        },
+        {
+            "Name":"Run the dishwasher",
+            "Description":"If a load has been brewing for a while just run it."
+        },
+        {
+            "Name":"Clear the Kitchen table off",
+            "Description":"George should have no desire to go up there now."
+        },
+        {
+            "Name":"Pick up dog toys in the Kitchen",
+            "Description":"He probably forgot about these."
+        },
+        {
+            "Name":"Fresh water for Arlo",
+            "Description":"The apartment is full of HydroHomies, fresh water is the simplest path to compliance."
+        },
+        {
+            "Name":"Sweep and mop the kitchen floors",
+            "Description":"Swiffer or bucket, dealer's choice."
+        }
+    ],
+    "Friday":[
+        {
+            "Name":"Put dishes away",
+            "Description":"Run the dishwasher, put the drying rack away, and make a round for dishes left out."
+        }
+    ],
+    "Saturday":[
+        {
+            "Name":"Clean Norbert's Cage",
+            "Description":"Vacuum the cage, clean the litter box, and give him fresh water."
+        },
+        {
+            "Name":"Pickup junk",
+            "Description":"There's just so much junk."
+        },
+        {
+            "Name":"Wipe down the counter and sink",
+            "Description":"The sink should no longer taste like mint."
+        },
+        {
+            "Name":"Wipe down the shower",
+            "Description":"Scrub-a-dub-dub in the tub"
+        },
+        {
+            "Name":"Wipe down the toilet",
+            "Description":"Clean the bowl, wipe off the dust."
+        },
+        {
+            "Name":"Vacuum or sweep the floors",
+            "Description":"Get those hairballs out of the corners"
+        },
+        {
+            "Name":"Mop the floors",
+            "Description":"Just do it."
+        }
+    ],
+    "Sunday":[
+        {
+            "Name":"Do the laundry",
+            "Description":"Check the hampers to see if there's any that are full. Rotate towels and sheets and get the old ones washed."
+        },
+        {
+            "Name":"Fold the laundry",
+            "Description":"The sooner you get it in drawers the better you will feel about life."
+        }
+    ],
+    "Everyday":[
+        {
+            "Name":"Norbert's Greens",
+            "Description":"Give Norbert Greens."
+        },
+        {
+            "Name":"Norbert's Pellets",
+            "Description":"Give Norbert Pellets."
+        },
+        {
+            "Name":"Arlo's Drops",
+            "Description":"Give Arlo allergy drops twice a day."
+        },
+        {
+            "Name":"Make the bed",
+            "Description":"The quarter bounce is optional."
+        }
+    ]
+}

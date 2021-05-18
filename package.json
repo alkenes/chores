@@ -1,0 +1,23 @@
+{
+  "name": "chores",
+  "version": "0.1.0",
+  "description": "Small web page to keep track of chores to do.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "eslint": "^7.22.0",
+    "postcss": "^8.2.13",
+    "tailwindcss": "^2.1.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "minio": "^7.0.18",
+    "postcss-cli": "^8.3.1",
+    "postcss-import": "^14.0.1"
+  }
+}
